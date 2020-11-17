@@ -1,0 +1,12 @@
+body {
+  background-color: brown;
+}
+
+.container {
+  height: 30vh;
+  width: 30vw;
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
